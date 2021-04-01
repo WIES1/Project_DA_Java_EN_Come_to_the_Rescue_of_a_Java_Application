@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T19:45:05.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="XsuPi9ZatA6p-gwdh_pC" version="14.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-01T19:46:42.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="dx2u6CJ0WJMypyeFawEf" version="14.5.5" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="782" dy="1709.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -172,13 +172,13 @@
           <mxGeometry x="670" y="667" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-54" value="&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: 700&quot;&gt;Critères d’acceptation de l’interface de recherche de base&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;Le champ de recherche est placé sur la barre supérieure&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;La recherche démarre une fois que l’utilisateur clique sur « Rechercher »&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;Le champ contient un espace réservé avec un texte en gris : «&amp;nbsp;Où allez-vous ?&amp;nbsp;»&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;L’espace réservé disparaît une fois que l’utilisateur commence à taper&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;La recherche est effectuée si un utilisateur saisit une ville, un nom d’hôtel, une rue ou tous&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;La recherche est en anglais, français, allemand et ukrainien&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;L’utilisateur ne peut pas taper plus de 200 symboles&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;La recherche ne prend pas en charge les symboles spéciaux (caractères).&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;Si l’utilisateur a tapé un symbole spécial, affichez le message d’avertissement :&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;« L’entrée de recherche ne peut pas contenir de symboles spéciaux.»&lt;/li&gt;&lt;/ul&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="717" y="760" width="620" height="330" as="geometry" />
+          <mxGeometry x="320" y="780" width="620" height="320" as="geometry" />
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-56" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=26;align=left;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
-          <mxGeometry x="9.53846153846154" y="6" width="582.2753846153847" height="208.5" as="geometry" />
+          <mxGeometry x="9.53846153846154" y="5.818181818181818" width="582.2753846153847" height="202.1818181818182" as="geometry" />
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-57" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#dddddd;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
-          <mxGeometry x="28.18181818181819" y="214.50000000000009" width="563.6363636363636" height="65.99999999999999" as="geometry" />
+          <mxGeometry x="28.18181818181819" y="208.00000000000009" width="563.6363636363636" height="63.999999999999986" as="geometry" />
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-58" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=16;fillColor=#3D8BCD;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
           <mxGeometry y="1" width="80" height="40" relative="1" as="geometry">

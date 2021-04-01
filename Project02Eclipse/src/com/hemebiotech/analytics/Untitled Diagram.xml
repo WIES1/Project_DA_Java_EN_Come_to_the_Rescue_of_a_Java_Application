@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T18:41:02.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="FpOEdycnko0r4IIzxmAh" version="14.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-01T19:42:52.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="6aI9mOjmyU_pmc8YXeFA" version="14.5.5" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -39,25 +39,25 @@
           <mxGeometry x="1049.375" width="100.625" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-11" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="860" y="150" width="330" height="400" as="geometry" />
+          <mxGeometry x="940" y="490" width="460" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-12" value="320x200" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
-          <mxGeometry x="5" y="5" width="320" height="200" as="geometry" />
+        <mxCell id="3d76a8aef4d5c911-12" value="" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
+          <mxGeometry x="6.237004048582993" y="38.78437047756875" width="259.70631578947365" height="189.8042450554752" as="geometry" />
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-13" value="Thumbnail label" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=26;align=left;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
-          <mxGeometry x="15" y="220" width="300" height="40" as="geometry" />
+        <mxCell id="3d76a8aef4d5c911-13" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;FuzeScrum Label&lt;br&gt;&lt;span style=&quot;color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; box-sizing: border-box ; font-weight: 700&quot;&gt;Userstory 1:&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px&quot;&gt;&amp;nbsp;mot de passe oublié&lt;/span&gt;&lt;br&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;L’utilisateur a accédé à la page de connexion&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;L’utilisateur a sélectionné l’option de&amp;nbsp;&lt;em style=&quot;box-sizing: border-box&quot;&gt;mot de passe oublié&lt;/em&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;entré un e-mail valide pour recevoir un lien pour la récupération du mot de passe&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Le système a envoyé le lien vers l’e-mail entré&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;L’utilisateur a reçu le lien par e-mail&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;l’utilisateur a parcouru le lien reçu dans l’e-mail&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Le système permet à l’utilisateur de définir un nouveau mot de passe&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=26;align=left;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
+          <mxGeometry x="64.56535394430132" y="171.5628586881843" width="374.1626794258374" height="44.60202604920405" as="geometry" />
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-14" value="Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#dddddd;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
-          <mxGeometry x="15" y="260" width="300" height="80" as="geometry" />
+        <mxCell id="3d76a8aef4d5c911-14" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#dddddd;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
+          <mxGeometry x="18.70813397129187" y="289.9131693198264" width="374.1626794258374" height="89.2040520984081" as="geometry" />
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-15" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=16;fillColor=#3D8BCD;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
-          <mxGeometry y="1" width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="15" y="-60" as="offset" />
+        <mxCell id="3d76a8aef4d5c911-15" value="Valid" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=16;fillColor=#3D8BCD;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
+          <mxGeometry y="1" width="70" height="43" relative="1" as="geometry">
+            <mxPoint x="230" y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-16" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=16;strokeColor=#dddddd;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
+        <mxCell id="3d76a8aef4d5c911-16" value="Cancel" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=16;strokeColor=#dddddd;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
           <mxGeometry y="1" width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="100" y="-60" as="offset" />
+            <mxPoint x="320" y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-17" value="Template name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -169,26 +169,23 @@
           <mxGeometry x="210" y="810" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-53" value="Delete Template" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#DB524C;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="810" width="170" height="40" as="geometry" />
+          <mxGeometry x="670" y="667" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-54" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="860" y="580" width="330" height="400" as="geometry" />
+        <mxCell id="3d76a8aef4d5c911-54" value="&lt;p style=&quot;box-sizing: border-box ; margin: 0px 0px 20px ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: 700&quot;&gt;Critères d’acceptation de l’interface de recherche de base&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;roboto&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;Le champ de recherche est placé sur la barre supérieure&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;La recherche démarre une fois que l’utilisateur clique sur « Rechercher »&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;Le champ contient un espace réservé avec un texte en gris : «&amp;nbsp;Où allez-vous ?&amp;nbsp;»&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;L’espace réservé disparaît une fois que l’utilisateur commence à taper&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;La recherche est effectuée si un utilisateur saisit une ville, un nom d’hôtel, une rue ou tous&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;La recherche est en anglais, français, allemand et ukrainien&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;L’utilisateur ne peut pas taper plus de 200 symboles&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;La recherche ne prend pas en charge les symboles spéciaux (caractères).&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;Si l’utilisateur a tapé un symbole spécial, affichez le message d’avertissement :&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box&quot;&gt;« L’entrée de recherche ne peut pas contenir de symboles spéciaux.»&lt;/li&gt;&lt;/ul&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="770" width="620" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-55" value="320x200" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
-          <mxGeometry x="5" y="5" width="320" height="200" as="geometry" />
+        <mxCell id="3d76a8aef4d5c911-56" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=26;align=left;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
+          <mxGeometry x="9.53846153846154" y="6" width="582.2753846153847" height="208.5" as="geometry" />
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-56" value="Thumbnail label" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=26;align=left;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
-          <mxGeometry x="15" y="220" width="300" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3d76a8aef4d5c911-57" value="Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#dddddd;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
-          <mxGeometry x="15" y="260" width="300" height="80" as="geometry" />
+        <mxCell id="3d76a8aef4d5c911-57" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#dddddd;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
+          <mxGeometry x="28.18181818181819" y="214.50000000000009" width="563.6363636363636" height="65.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-58" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=16;fillColor=#3D8BCD;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
           <mxGeometry y="1" width="80" height="40" relative="1" as="geometry">
             <mxPoint x="15" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-59" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=16;strokeColor=#dddddd;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
+        <mxCell id="3d76a8aef4d5c911-59" value="Research" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=16;strokeColor=#dddddd;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
           <mxGeometry y="1" width="80" height="40" relative="1" as="geometry">
             <mxPoint x="100" y="-60" as="offset" />
           </mxGeometry>
